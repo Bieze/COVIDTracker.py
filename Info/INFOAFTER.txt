@@ -1,0 +1,3 @@
+Hi user,
+
+thank you for downloading and installing the COVID-19 Tracker, the setup was successful
